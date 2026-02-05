@@ -12,4 +12,7 @@ Sprint Planning: Discusses goals and reviews product backlog.
 
 Daily Scrum: Discussed what they did since the last meeting and identifying blockers.
 
-Sprint Review: Demoes work and adjusts backlog based on new needs and requirements.
+Sprint Review: Demoes work and adjusts backlog based on new needs and requirements.\
+
+Part D:
+Epics are high level workloads that span multiple Sprints. Stories represent tasks to be completed within a single Sprint. Lastly, a task represent each feature that needs to be completed. Epics can contain multiple stories which can contain multiple tasks.
