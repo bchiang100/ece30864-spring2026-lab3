@@ -4,3 +4,12 @@ A problem, however, is that software developers would have to change things on t
 
 PART B:
 The scrum master is more concerned with team dynamics and removing blockers from developers. The product owner is the one that defines the product vision, values, and requirements from stakeholders.
+
+Part C:
+The three types are meetings are Sprint Planning (settings requirements and goals), Daily Scrum (15 minute meetings for updates), and Sprint Review (work demoing).
+
+Sprint Planning: Discusses goals and reviews product backlog.
+
+Daily Scrum: Discussed what they did since the last meeting and identifying blockers.
+
+Sprint Review: Demoes work and adjusts backlog based on new needs and requirements.
