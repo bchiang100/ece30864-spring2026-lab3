@@ -1,0 +1,3 @@
+PART A:
+Agile development methods would allow software developers to receive more customer feedback, allowing them to make sure customers are satisfied with the ongoing product at any time.
+A problem, however, is that software developers would have to change things on the fly, which would mean that upfront planning would be less feasible and a lot of the work would be decided after each Sprint Review.
